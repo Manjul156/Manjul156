@@ -54,15 +54,6 @@ Working through Python fundamentals from tutorials and building small exercises 
 
 ---
 
-### 🔜 Next Project — *placeholder*
-<!-- Replace this block once your first AI/ML project is ready.
-     Suggested format:
-     ### [project-name](link)
-     One line on the problem it solves.
-     What you built, key technical decisions.
-     Tech: Python, <libraries>
-     Live demo: <link, if any> -->
-*This slot is reserved for your first ML/DL/GenAI project. See recommendations below for where to start.*
 
 <br/>
 
