@@ -12,7 +12,7 @@
 
 ## About Me
 
-I'm a 2nd-year B.Tech student learning to build real AI/ML systems instead of just studying the theory. Right now that means writing Python, working through machine learning and deep learning fundamentals, and starting to explore generative AI and LLMs.
+I'm a 3rd-year B.Tech student learning to build real AI/ML systems instead of just studying the theory. Right now that means writing Python, working through machine learning and deep learning fundamentals, and starting to explore generative AI and LLMs.
 
 I learn by building — if I pick up a concept, the next step is turning it into working code, not just a note in a notebook. I'm looking to get more involved in hackathons and open source as I go, both to test what I've learned and to build alongside other people who are further along the same path.
 
