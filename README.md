@@ -1,20 +1,120 @@
-# 💫 About Me:
-🤖 AI Developer building intelligent and practical solutions  <br> 🔭 Currently working on AI/ML projects and experimenting with new ideas  <br>🌱 Exploring Machine Learning, Deep Learning, Generative AI & LLMs  <br>👯 Open to collaborating on AI projects, hackathons & open source  <br>💻 Python • AI/ML • APIs • Web Development  <br>🏆 Building, competing, and learning through hackathons  <br>💬 Ask me about AI, Machine Learning, Python & AI-powered applications  <br>⚡ I learn best by building — if there's an idea, I'll try to turn it into code.
+<h1 align="center">Manjul Kumar</h1>
+<h3 align="center">AI/ML Engineer in the Making</h3>
+<p align="center">B.Tech student building practical AI/ML systems — one real project at a time.</p>
 
-# 💻 Tech Stack:
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Manjul156&theme=cobalt2&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Manjul156&theme=cobalt2&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Manjul156&theme=cobalt2&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <a href="https://github.com/Manjul156"><img src="https://img.shields.io/badge/GitHub-Manjul156-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/manjul-kumar-1b201b330/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:manjuldaksh1@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<br/>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Manjul156&limit=5&theme=transparent&combine_all_yearly_contributions=true)
+## About Me
+
+I'm a 2nd-year B.Tech student learning to build real AI/ML systems instead of just studying the theory. Right now that means writing Python, working through machine learning and deep learning fundamentals, and starting to explore generative AI and LLMs.
+
+I learn by building — if I pick up a concept, the next step is turning it into working code, not just a note in a notebook. I'm looking to get more involved in hackathons and open source as I go, both to test what I've learned and to build alongside other people who are further along the same path.
+
+<br/>
+
+## Currently Exploring
+
+I'm actively moving through these areas — not claiming mastery, just showing direction:
+
+- **Machine Learning** — core algorithms, model fundamentals
+- **Deep Learning** — neural networks, PyTorch/TensorFlow basics
+- **Generative AI & LLMs** — how modern language models work and how to build with them
+- **AI Agents & RAG** — early reading and small experiments
+- **AI Engineering** — APIs, FastAPI, deployment basics
+
+<br/>
+
+## Technical Skills
+
+**Languages**
+```
+Python
+```
+
+**Currently Learning**
+```
+NumPy · Pandas · Scikit-learn · PyTorch · TensorFlow · FastAPI
+```
+
+> Skills above "Currently Learning" are in progress, not production-ready — listed here as direction, not a claim of expertise.
+
+<br/>
+
+## Featured Projects
+
+### [Learn_Python_Basics](https://github.com/Manjul156/Learn_Python_Basics)
+Working through Python fundamentals from tutorials and building small exercises and scripts along the way to solidify the basics.
+**Tech:** Python
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Manjul156&icon=10&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🔜 Next Project — *placeholder*
+<!-- Replace this block once your first AI/ML project is ready.
+     Suggested format:
+     ### [project-name](link)
+     One line on the problem it solves.
+     What you built, key technical decisions.
+     Tech: Python, <libraries>
+     Live demo: <link, if any> -->
+*This slot is reserved for your first ML/DL/GenAI project. See recommendations below for where to start.*
+
+<br/>
+
+## Hackathons & Building
+
+I haven't participated in a hackathon yet, but it's an active goal — building under time pressure alongside a team is one of the fastest ways to stress-test what I'm learning. This section will get filled in as that happens.
+
+<br/>
+
+## Learning Journey
+
+```
+Python
+   ↓
+Data Analysis
+   ↓
+Machine Learning
+   ↓
+Deep Learning
+   ↓
+Generative AI / LLMs
+   ↓
+AI Engineering & Deployment
+```
+
+I'm currently at the **Python → Machine Learning** stage of this path.
+
+<br/>
+
+## GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Manjul156&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manjul156&theme=default&hide_border=true" alt="GitHub Streak" height="165"/>
+</p>
+
+<br/>
+
+## Open Source
+
+I'm looking to start contributing to open source AI/ML tooling and libraries — starting small (docs, issues, minor fixes) while I build up to more substantial contributions.
+
+<br/>
+
+## Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/manjul-kumar-1b201b330/">LinkedIn</a> ·
+  <a href="mailto:manjuldaksh1@gmail.com">Email</a> ·
+  <a href="https://github.com/Manjul156">GitHub</a>
+</p>
+
+<br/>
+
+<p align="center"><sub>Learning by building, one commit at a time.</sub></p>
