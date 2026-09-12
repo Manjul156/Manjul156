@@ -66,11 +66,6 @@ Working through Python fundamentals from tutorials and building small exercises 
 
 <br/>
 
-## Hackathons & Building
-
-I haven't participated in a hackathon yet, but it's an active goal — building under time pressure alongside a team is one of the fastest ways to stress-test what I'm learning. This section will get filled in as that happens.
-
-<br/>
 
 ## Learning Journey
 
